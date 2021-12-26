@@ -9,6 +9,7 @@ Plugins are listed in `list-plugins.txt`
 ## Editor Settings
 
 Font Family: [Cascadia Code](https://github.com/microsoft/cascadia-code)
+
 Editor Theme: [Cobalt2](https://github.com/wesbos/cobalt2)
 
-Editor settings are in `settings.json`
+All editor settings are in `settings.json`

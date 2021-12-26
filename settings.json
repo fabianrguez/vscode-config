@@ -1,40 +1,42 @@
 {
-  "editor.tabSize": 2,
-  "editor.fontFamily": "'Cascadia Code', 'Operator Mono',  Consolas, 'Courier New', monospace",
-  "editor.fontSize": 16,
-  "editor.fontWeight": 300,
-  "editor.lineHeight": 25,
-  "editor.letterSpacing": 0.15,
-  "editor.fontLigatures": true,
-  "editor.cursorStyle": "line",
-  "editor.cursorWidth": 2,
-  "editor.cursorBlinking": "expand",
-  "editor.renderWhitespace": "all",
-  "workbench.colorTheme": "Cobalt2",
-  "editor.minimap.enabled": false,
-  "files.autoSave": "afterDelay",
-  "workbench.startupEditor": "none",
-  "javascript.preferences.quoteStyle": "single",
-  "typescript.preferences.quoteStyle": "single",
-  "[html]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[javascript]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "prettier.jsxSingleQuote": true,
-  "prettier.printWidth": 120,
-  "prettier.singleQuote": true,
-  "git.confirmSync": false,
-  "editor.formatOnSave": true,
-  "vscode-edge-devtools.mirrorEdits": true,
-  "liveServer.settings.donotShowInfoMsg": true,
-  "[json]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "npm.packageManager": "npm",
-  "bracket-pair-colorizer-2.depreciation-notice": false,
-  "workbench.iconTheme": "material-icon-theme",
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "editor.guides.bracketPairs": true
+    "editor.tabSize": 2,
+    "editor.fontFamily": "'Cascadia Code', 'Operator Mono',  Consolas, 'Courier New', monospace",
+    "editor.fontSize": 16,
+    "editor.fontWeight": 300,
+    "editor.lineHeight": 25,
+    "editor.letterSpacing": 0.15,
+    "editor.fontLigatures": true,
+    "editor.cursorStyle": "line",
+    "editor.cursorWidth": 2,
+    "editor.cursorBlinking": "expand",
+    "editor.renderWhitespace": "all",
+    "workbench.colorTheme": "Cobalt2",
+    "editor.minimap.enabled": false,
+    "files.autoSave": "afterDelay",
+    "workbench.startupEditor": "none",
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.printWidth": 120,
+    "prettier.singleQuote": true,
+    "git.confirmSync": false,
+    "editor.formatOnSave": true,
+    "vscode-edge-devtools.mirrorEdits": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "npm.packageManager": "npm",
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.guides.bracketPairs": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
 }
